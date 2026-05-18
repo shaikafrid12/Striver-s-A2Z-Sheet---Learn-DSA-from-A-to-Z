@@ -1,0 +1,6 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.dependency.syncWithFolderExplorer": false,
+    "java.project.explorer.showNonJavaResources": false,
+    "code-runner.runInTerminal": true
+}
