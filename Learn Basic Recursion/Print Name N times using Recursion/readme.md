@@ -1,0 +1,9 @@
+Problem Description: Given an integer N, write a program to print your name N times.
+
+Examples
+Input: N = 3
+Output: Ashish Ashish Ashish 
+Explanation: Name is printed 3 times.
+Input: N = 1
+Output: Ashish 
+Explanation: Name is printed once.
