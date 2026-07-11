@@ -55,3 +55,7 @@ Striver's A2Z DSA Sheet is a comprehensive guide to mastering Data Structures an
 - [x] [Rotate array by K elements](./Solve%20Problems%20on%20Arrays/Rotate%20array%20by%20K%20elements)
 - [x] [Move all Zeros to the end of the array](./Solve%20Problems%20on%20Arrays/Move%20all%20Zeros%20to%20the%20end%20of%20the%20array)
 - [x] [Linear Search](./Solve%20Problems%20on%20Arrays/Linear%20Search)
+- [x] [Union of Two Sorted Arrays](./Solve%20Problems%20on%20Arrays/Union%20of%20Two%20Sorted%20Arrays)
+- [x] [Find the Missing Number](./Solve%20Problems%20on%20Arrays/Find%20the%20Missing%20Number)
+- [x] [Count Maximum Consecutive One's in the array](./Solve%20Problems%20on%20Arrays/Count%20Maximum%20Consecutive%20One%27s%20in%20the%20array)
+- [x] [Find the number that appears once, and the other numbers twice](./Solve%20Problems%20on%20Arrays/Find%20the%20number%20that%20appears%20once,%20and%20the%20other%20numbers%20twice)
