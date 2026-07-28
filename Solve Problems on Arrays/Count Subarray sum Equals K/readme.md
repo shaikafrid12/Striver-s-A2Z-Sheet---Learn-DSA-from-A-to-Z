@@ -1,18 +1,15 @@
-# Count Subarray Sum Equals K
+Count Subarray sum Equals K
 
-**Problem Statement:** Given an array of integers and an integer `k`, return the total number of subarrays whose sum equals `k`. A subarray is a contiguous non-empty sequence of elements within an array.
+Problem Statement: Given an array of integers and an integer k, return the total number of subarrays whose sum equals k. A subarray is a contiguous non-empty sequence of elements within an array.
 
-### Examples
+Examples
+Input : N = 4, array[] = {3, 1, 2, 4}, k = 6
+Output: 2
+Explanation: The subarrays that sum up to 6 are [3, 1, 2] and [2, 4].
 
-**Example 1:**
-- **Input:** $N = 4$, $\text{array}[] = \{3, 1, 2, 4\}$, $k = 6$
-- **Output:** $2$
-- **Explanation:** The subarrays that sum up to $6$ are $[3, 1, 2]$ and $[2, 4]$.
-
-**Example 2:**
-- **Input:** $N = 3$, $\text{array}[] = \{1, 2, 3\}$, $k = 3$
-- **Output:** $2$
-- **Explanation:** The subarrays that sum up to $3$ are $[1, 2]$ and $[3]$.
+Input: N = 3, array[] = {1,2,3}, k = 3
+Output: 2
+Explanation: The subarrays that sum up to 3 are [1, 2], and [3].
 
 ---
 
@@ -57,4 +54,4 @@ We can solve this problem in linear time using a Prefix Sum technique paired wit
 | :--- | :--- | :--- |
 | **Brute Force** | $O(N^3)$ | $O(1)$ |
 | **Better** | $O(N^2)$ | $O(1)$ |
-| **Optimal** | $O(N)$ | $O(N)$ |
+| **Optimal** | $O(N)$ | $O(N)$ |
