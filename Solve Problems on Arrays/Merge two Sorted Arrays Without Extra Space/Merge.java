@@ -6,7 +6,7 @@ public class Merge {
         int m = sc.nextInt();
         int n = sc.nextInt();
 
-        int nums1[] = new int[m];
+        int nums1[] = new int[m + n];
         int nums2[] = new int[n];
 
         for (int i = 0; i < m; i++) {
@@ -25,9 +25,9 @@ public class Merge {
     }
 
     public static void merge_arrays(int arr1[], int arr2[], int m, int n) {
-        int i = m - n - 1;
+        int i = m - 1;
         int j = n - 1;
-        int k = m - 1;
+        int k = m + n - 1;
 
         while (i >= 0 && j >= 0) {
             if (arr1[i] > arr2[j]) {
